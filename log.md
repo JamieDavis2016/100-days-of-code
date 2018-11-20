@@ -20,6 +20,11 @@ Also created the first code pen project and completed a basic tribute page (see 
 
 I'm doing this because I don't want to rely on CSS frameworks as well as dealing with all the bloat that comes with it.
 
+**Reply's from Twitter**: 
+Doublas 3D said: "View Width "vw" can be used instead of px, in, % w/CSS, like style="font-size: 5vw; padding-left: 1.25vw;" 
+try justify, absolute and relative with position and think about z-index as well for styled overlap. Try many options for what works in this case may not in the next. GL"
+
+
 **Thoughts** I should read up on CSS and design to make myself understand user design better for better CSS, need to practice using these techniques more as well 
 
 **Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/gQoGGb)
