@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 3: 21 November, 2018
+
+**Today's progress**: Time spent: 1h
+
+Updated a bit of CSS on the tribute page
+Started writing the survey page, also read up on CSS tips and what's the best way to write CSS
+
+Not too impressed with today, didn't get much done as I thought I would
+
+Should look into what the Tweet suggestions have mentioned!
+
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/XyZeBZ)
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/gQoGGb)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
 ### Day 2: 20 November, 2018
 
 **Today's progress**: Time spent: 1h
