@@ -2,6 +2,31 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+https://www.colorbook.io/
+
+### Day 4: 22 November, 2018
+
+**Today's progress**: Time spent: 1h
+
+Started the survey form on the free code camp page, decided to use flexbox with this form
+Using lots of resources to understand what the heck is happening :) - I'm guessing this is just practice for designing
+
+Should read up on Flexbox more again, happy with progress - going to mess around with this until I'm happy with the form being a nice looking up to date page
+
+Used a site (see colorbook) to help gain a complementary colour with my main background color
+
+Hopefully will get some pointers of Twitter (will put in today or tomorrow)
+
+Flexbox design was inspired by (see design) as I thought using flex box would be a good way of understanding modern day CSS
+will look into how and why they're using the selectors that they are using
+
+Overall happy with today's practice as it was very segragated (due to irl)
+
+**Link To work** [Design] (https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767) 
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/XyZeBZ)
+**Link To work** [Colorbook] (https://www.colorbook.io/)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
 ### Day 3: 21 November, 2018
 
 **Today's progress**: Time spent: 1h
