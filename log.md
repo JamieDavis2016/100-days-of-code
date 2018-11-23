@@ -2,7 +2,22 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
-https://www.colorbook.io/
+### Day 5: 23 November, 2018
+
+**Today's progress**: Time spent: 1h
+
+Continued trying to get the hang of styling this page, not getting the page the way I want it
+Will try to draw out how I would like the page to look tomorrow and implement it this way as a fun exercise.
+
+Understanding the CSS selectors better especially when it comes to narrowing down on the HTML
+
+Need to understand how padding and spacing work better as I find them very difficult but important
+
+**Link To work** [FlexBox css] https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+**Link To work** [Design] (https://webdesign.tutsplus.com/tutorials/building-responsive-forms-with-flexbox--cms-26767) 
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/XyZeBZ)
+**Link To work** [Colorbook] (https://www.colorbook.io/)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
 
 ### Day 4: 22 November, 2018
 
