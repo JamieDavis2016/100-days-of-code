@@ -2,6 +2,27 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 7: 25 November, 2018
+
+**Today's progress**: Time spent: 1h
+
+Started the product landing page project, happy with the custom CSS and content that I have created so far!
+More on trying to get the CSS working to how I want as I want to have the page fully responsive.
+
+Used my understanding of CSS selectors from the Survey and this has helped me build some parts of the page a lot faster
+
+Starting to notice my understanding for CSS a lot quicker to build things such as navbars and seperating the page
+
+Overally happy with Sunday's work! :)
+Messed around with a sticky navbar which was interesting to how it works
+
+Need to understand, the shorthand of the CSS.
+
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/EOLrvN)
+**Link To work** [Colorbook] (https://www.colorbook.io/)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+**Link To work:** [How should I build my site?] (https://softwareengineering.stackexchange.com/questions/179537/should-i-write-html-or-css-first)
+
 ### Day 6: 24 November, 2018
 
 **Today's progress**: Time spent: 1h
