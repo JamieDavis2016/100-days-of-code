@@ -2,6 +2,24 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 8: 26 November, 2018
+
+**Today's progress**: Time spent: 1h
+
+Created a fully responsive product landing page, happy with the outcome for how long I have spent on it
+
+The responsiveness is a nice attempt quite pleased with how I've managed to use flex and other queries to make a nice bold site
+
+Maybe should brush up on design of colours though as purple and green isn't recommended.
+
+The navbar should be handled better responsively dependent on screen size
+
+Overall happy with the page that I've created from the course of free code camp!
+
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/EOLrvN)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+**Link To work:** [Media Queries with Flexbox] (https://codepen.io/estelle/pen/brDpB)
+
 ### Day 7: 25 November, 2018
 
 **Today's progress**: Time spent: 1h
