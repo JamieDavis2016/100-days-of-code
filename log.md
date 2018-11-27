@@ -2,6 +2,27 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 9: 26 November, 2018
+
+**Today's progress**: Time spent: 1h
+
+Very distracted hour today, didn't get anywhere near as much done as I would of hoped.
+
+Got the setup for technical documentation page from FCC HTML done and have the tests ran - only layout to finish
+
+Plan to experiment and make the layout / CSS look much nicer, may look to add an animation
+Using responsive CSS again
+
+For this page may try to make use of CSS grid and CSS flexbox and see how I want to structure the page
+
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/wQEywd)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day9: Time Spent:1h (distracted hour) Thoughts: After one very distracted hour (irl) 
+I managed to put together the setup for content have all of the HTML side of things passing on FCC for the tech doc page!
+ Layout time https://codepen.io/jamiedavis/pen/wQEywd … #100daysofcode #FreeCodeCamp
+
 ### Day 8: 26 November, 2018
 
 **Today's progress**: Time spent: 1h
