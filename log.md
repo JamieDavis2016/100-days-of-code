@@ -2,7 +2,40 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
-### Day 9: 26 November, 2018
+### Day 10: 26 November, 2018
+
+**Today's progress**: Time spent: 1h
+
+Very distracted hour today, didn't get anywhere near as much done as I would of hoped.
+
+(Due to big family thing)
+
+Got some css done on layout, happy with how I'm making the layout, understand what the overflow-x and overflow-y are for now
+Made some more understanding on how margin's work and creating seperation of concern.
+
+Would like to understand more on how the margins impact responsive design for when you're making the browser go smaller or bigger.
+
+Setup headers to display information.
+
+Plan to display my content a lot clearer tomorrow and change the content that's written (to more useful content)
+
+Reached all 14 tests ran from FCC for HTML just need to get 2 layout tests finished to have finished the FCC standard for this page.
+
+Also analysing my HTML and CSS from codepen's built in tool, to ensure there are no errors.
+
+Trying to create less duplicate properties in CSS from using more global selectors
+
+Happy with my progress as I don't have to look on the web for answers as much anymore!
+
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/wQEywd)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day10: Time Spent:1h (distracted hour) Thoughts: After one very distracted hour (irl) 
+started the CSS and navigation for my technical documentation page (very distracted by irl today) 
+plan to make better progress soon! https://codepen.io/jamiedavis/pen/wQEywd … … #100daysofcode #FreeCodeCamp
+
+### Day 9: 27 November, 2018
 
 **Today's progress**: Time spent: 1h
 
