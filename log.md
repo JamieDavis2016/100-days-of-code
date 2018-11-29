@@ -2,7 +2,28 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
-### Day 10: 26 November, 2018
+### Day 11: 29 November, 2018
+
+**Today's progress**: Time spent: 1h
+
+Writing content for the technical documentation page, off the top of my head as I wanted some content to go with it.
+Should probably just use the web developers way of writing lots of words (usiung lorem esp)
+
+It's fun writing content to take into the real world.
+
+Didn't do much CSS today or any for that matter as got carried away writing content, hope to finish my technical documentation page tomorrow.
+
+Will work heavily on my web page portfolio to make it look as nice as I can think.
+
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/wQEywd)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day11: Time Spent:1h Thoughts: Started writing some actual content for my technical documentation page, 
+it takes a lot longer than I realise to actually create the content when it's coming from your head! Anyway enjoy!
+ :) https://codepen.io/jamiedavis/pen/wQEywd … #100daysofcode #FreeCodeCamp
+
+### Day 10: 28 November, 2018
 
 **Today's progress**: Time spent: 1h
 
