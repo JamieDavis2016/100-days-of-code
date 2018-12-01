@@ -2,6 +2,27 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 12: 01 December, 2018
+
+**Today's progress**: Time spent: 1h
+
+Finished technical documentation page, with some lazy CSS and lazy CSS for mobile responsiveness
+
+Finished HTML section in FCC and am planning on doing my personal portfolio page, will look at some designs and see what I like
+
+Plan on writing the first version with my own CSS (and displaying that it's my own) - may rewrite using some libraries and add Javascript later on.
+
+Last part of the HTML AND CSS side of FCC before finishing the first section! 
+
+THEN STARTING JAVASCRIPT! :)
+
+**Link To work** [Codepen] (https://codepen.io/jamiedavis/pen/wQEywd)
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day12: Time Spent:1h Thoughts: Finished of technical documentation page and finished off the HTML section of FCC (for full completion) 
+plan on making a big effort to my personal portfolio page, may even host it! https://codepen.io/jamiedavis/pen/wQEywd … #100daysofcode #FreeCodeCamp
+
 ### Day 11: 29 November, 2018
 
 **Today's progress**: Time spent: 1h
