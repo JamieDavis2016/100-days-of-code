@@ -2,6 +2,22 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 14: 09 December, 2018
+
+**Today's progress**: Time spent: 1h
+
+Continued Javascript on FCC page and had a look at how I want to do my personal portfolio page
+
+Continued and have nearly finished the basic Javascript section, plan on finishing that as well as planning how I want to do my portfolio page and versioning.
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day14: Time Spent:1h - 2h Thoughts: Started doing the basic Javascript (although I know some already) 
+from FCC to ensure that I am getting complete coverage of this from the practices!
+ Plan on working with this and doing my personal portfolio! #100daysofcode #FreeCodeCamp
+
+
 ### Day 13: 08 December, 2018
 
 **Today's progress**: Time spent: 1-2h
