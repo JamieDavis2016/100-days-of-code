@@ -2,6 +2,27 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 15: 10 December, 2018
+
+**Today's progress**: Time spent: 30 min block then another 30 min block later
+
+Made more progress on doing the Javascript on FCC, happy with the progress
+Starting to settle into a rythumn of whenever I'm at my computer to sit and do the work which feels amazing :)
+
+Hoping to finish the basic Javascript and then also start mixing it up with doing my codepen portfolio
+
+After more practice and possibly the libraries introduction will look to upgrade my portfolio!
+
+Plan to make my portfolio an ongoing project
+This also goes along with wanting to start blogging and writing about topics I find interesting in technology with research!
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day16: Time Spent: 30mins then 30mins later Thoughts: Had to block out my hour of code because of going to the gym and stuff inbetween,
+ grasped more Javascript and hoping to finish this on the FCC soon,
+ also plan on making a codepen :) happy code! #100daysofcode #FreeCodeCamp
+
 ### Day 14: 09 December, 2018
 
 **Today's progress**: Time spent: 1h
