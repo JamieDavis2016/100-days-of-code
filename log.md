@@ -2,6 +2,21 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 16: 10 December, 2018
+
+**Today's progress**: Time spent: 30 min block then another 30 min block later
+
+Finished Javascript in FCC moving onto ES6 and more! Plan on returning to writing some more CSS as well tomorrow.
+Still refusing to use libraries for the time being until I have a good base understanding of the languages used.
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day17:
+Time Spent: 1h
+Thoughts: More Javascript today, have finished the basic Javascript section on FCC! Yay! :) to reward myself I'm going to do... More Javascipt! :P
+#100daysofcode #FreeCodeCamp
+
 ### Day 15: 10 December, 2018
 
 **Today's progress**: Time spent: 30 min block then another 30 min block later
