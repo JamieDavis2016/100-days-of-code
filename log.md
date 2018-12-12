@@ -2,6 +2,19 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
+### Day 17: 10 December, 2018
+
+**Today's progress**: Time spent: 1hour
+
+Kept getting very distracted whilst working didn't get as much done as I woudld of hoped.
+To stop this I will only use music whilst im programming from Spotify rather than something like YouTube as this distracts me.
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day18: Time Spent: 1h Thoughts: Yet more Javascript from FCC, 
+I am starting to understand it more as it's different from other languages that I've coded in! #100daysofcode #FreeCodeCamp
+
 ### Day 16: 10 December, 2018
 
 **Today's progress**: Time spent: 30 min block then another 30 min block later
