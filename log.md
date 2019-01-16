@@ -2,7 +2,20 @@
 # This is my log of the next 100 days of code to help me become better at mainly web development
 # I should also consult to my calendar to ensure that I have subjects setup for what I want to learn and plan ahead.
 
-### Day 17: 10 December, 2018
+### Day 17: 16 January, 2019
+
+**Today's progress**: Time spent: 1hour
+
+Continued with FCC Javascript - Learned more about small intracacies of looping
+Solved the problems fairly quickly and happy with how it's improving my problem solving skills
+
+**Link To work:** [FreeCodeCamp] (https://www.freecodecamp.org)
+
+##Tweet Message:
+Day18: Time Spent: 1h Thoughts: Yet more Javascript from FCC, 
+I am starting to understand it more as it's different from other languages that I've coded in! #100daysofcode #FreeCodeCamp
+
+### Day 17: 12 December, 2018
 
 **Today's progress**: Time spent: 1hour
 
@@ -15,7 +28,7 @@ To stop this I will only use music whilst im programming from Spotify rather tha
 Day18: Time Spent: 1h Thoughts: Yet more Javascript from FCC, 
 I am starting to understand it more as it's different from other languages that I've coded in! #100daysofcode #FreeCodeCamp
 
-### Day 16: 10 December, 2018
+### Day 16: 11 December, 2018
 
 **Today's progress**: Time spent: 30 min block then another 30 min block later
 
